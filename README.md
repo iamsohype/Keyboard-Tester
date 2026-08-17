@@ -1,4 +1,9 @@
 # Keyboard Tester
 A simpler, lightweight keyboard tester app for Android devices
+# How to use
+• Click "Test" and "Enter text here" to test keyboard.
+• Tap "Test" and "Enter text here" to test virtual keyboard.
+Note: If you type on the keyboard but no text appears, your keyboard might be have an issue or if you tap "Enter the text" but the virtual keyboard doesn't show up, there might be an issue with your virtual keyboard app.
 # Download
 You can download it from [GitHub Releases](https://github.com/iamsohype/Keyboard-Tester/releases/tag/1.0)
+# Source code
