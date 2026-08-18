@@ -1,5 +1,8 @@
 # Keyboard Tester
 A simpler, lightweight keyboard tester app for Android devices
+# Screenshot 
+
+Tecno Camon 30S (by [@dumbkid036](
 # How to use
 • Click "Test" and "Enter text here" to test keyboard.
 
