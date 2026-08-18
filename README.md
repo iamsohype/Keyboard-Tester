@@ -3,6 +3,7 @@ A simpler, lightweight keyboard tester app for Android devices
 # Screenshot
 ![image](https://github.com/iamsohype/Keyboard-Tester/blob/main/Screenshot_20260818_162841_Keyboard%20Tester.jpg)
 Samsung Galaxy A23 4G (Me)
+
 ![image](https://github.com/iamsohype/Keyboard-Tester/blob/main/IMG_1557.jpeg)
 Tecno Camon 30S ([@dumbkid036](https://www.tiktok.com/@dumbkid036))
 # How to use
